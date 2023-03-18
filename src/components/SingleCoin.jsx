@@ -1,6 +1,6 @@
 import React from "react";
 import "./Coins.css";
-import FormatCash from "../formatCash";
+import FormatCash from "../FormatCash";
 function SingleCoin({ singlecoin }) {
   return (
     <div className="coin-row">
