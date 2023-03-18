@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon {
+  font-size: 2rem;
+  color: #6900ff;
+}
+.color {
+  color: #6900ff;
+}
